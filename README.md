@@ -1,8 +1,5 @@
 # Lighthouse Labs | Component-Based UI with React
 
-* [ ] What the heck is React?
-* [ ] Building a project w/ Create-React-App
-* [ ] Components
-* [ ] Props
-* [ ] Review of Closures
-* [ ] State
+* [ ] A Few ES6 Features
+* [ ] React Practice and a Couple New Features
+* [ ] Storybook
